@@ -1,5 +1,5 @@
 # Face Mask Detection
-![WithoutMask](screenshots/maskedcopy2.png) ![Masked](screenshots/withoutMask2copy2.png)
+![WithoutMask](screenshots/withoutMask2copy2.png) ![Masked](screenshots/maskedcopy2.png) 
 ## Introduction
 Coronavirus, which emerged in August 2019, is a dangerous global disease. The World Health Organization (WHO) has confirmed that this disease is transmitted by droplets or through the air. There are ways we can prevent airborne transmission. One of them is to wear a mask. It is a greater risk not to wear a mask, especially in built-up areas. Despite the warnings, there are those who do not wear masks. Therefore, it is important to develop face mask detection. In this article, it is aimed to develop face mask detection with artificial intelligence. When the experimental results were made, it is possible to determine whether to wear a mask or not, for different people and camera angles.
 Machine Learning
